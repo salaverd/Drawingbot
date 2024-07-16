@@ -1,0 +1,6 @@
+source;share/drawingbot/hook/pythonpath.ps1
+source;share/drawingbot/hook/pythonpath.dsv
+source;share/drawingbot/hook/pythonpath.sh
+source;share/drawingbot/hook/ament_prefix_path.ps1
+source;share/drawingbot/hook/ament_prefix_path.dsv
+source;share/drawingbot/hook/ament_prefix_path.sh

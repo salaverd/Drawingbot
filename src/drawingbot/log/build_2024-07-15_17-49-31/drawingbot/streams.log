@@ -1,0 +1,41 @@
+[0.683s] Invoking command in '/home/student8/class_ws/src/drawingbot': PYTHONPATH=/home/student8/class_ws/src/drawingbot/build/drawingbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/drawingbot build --build-base /home/student8/class_ws/src/drawingbot/build/drawingbot/build install --record /home/student8/class_ws/src/drawingbot/build/drawingbot/install.log --single-version-externally-managed install_data
+[0.908s] running egg_info
+[0.908s] creating build/drawingbot/drawingbot.egg-info
+[0.908s] writing build/drawingbot/drawingbot.egg-info/PKG-INFO
+[0.909s] writing dependency_links to build/drawingbot/drawingbot.egg-info/dependency_links.txt
+[0.909s] writing entry points to build/drawingbot/drawingbot.egg-info/entry_points.txt
+[0.909s] writing requirements to build/drawingbot/drawingbot.egg-info/requires.txt
+[0.909s] writing top-level names to build/drawingbot/drawingbot.egg-info/top_level.txt
+[0.910s] writing manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+[0.911s] reading manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+[0.912s] writing manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+[0.912s] running build
+[0.912s] running build_py
+[0.912s] creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build
+[0.912s] creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib
+[0.912s] creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+[0.912s] copying drawingbot/test.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+[0.912s] copying drawingbot/__init__.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+[0.912s] copying drawingbot/coords.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+[0.913s] running install
+[0.913s] running install_lib
+[0.915s] creating /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+[0.915s] copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/test.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+[0.915s] copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/__init__.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+[0.915s] copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/coords.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+[0.915s] byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/test.py to test.cpython-310.pyc
+[0.916s] byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/__init__.py to __init__.cpython-310.pyc
+[0.916s] byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/coords.py to coords.cpython-310.pyc
+[0.916s] running install_data
+[0.916s] creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index
+[0.916s] creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index
+[0.917s] creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index/packages
+[0.917s] copying resource/drawingbot -> /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index/packages
+[0.917s] copying package.xml -> /home/student8/class_ws/src/drawingbot/install/drawingbot/share/drawingbot
+[0.918s] running install_egg_info
+[0.920s] Copying build/drawingbot/drawingbot.egg-info to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot-0.0.0-py3.10.egg-info
+[0.920s] running install_scripts
+[0.943s] Installing coords script to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/drawingbot
+[0.943s] Installing test script to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/drawingbot
+[0.944s] writing list of installed files to '/home/student8/class_ws/src/drawingbot/build/drawingbot/install.log'
+[0.969s] Invoked command in '/home/student8/class_ws/src/drawingbot' returned '0': PYTHONPATH=/home/student8/class_ws/src/drawingbot/build/drawingbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/drawingbot build --build-base /home/student8/class_ws/src/drawingbot/build/drawingbot/build install --record /home/student8/class_ws/src/drawingbot/build/drawingbot/install.log --single-version-externally-managed install_data

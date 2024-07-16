@@ -1,0 +1,39 @@
+running egg_info
+creating build/drawingbot/drawingbot.egg-info
+writing build/drawingbot/drawingbot.egg-info/PKG-INFO
+writing dependency_links to build/drawingbot/drawingbot.egg-info/dependency_links.txt
+writing entry points to build/drawingbot/drawingbot.egg-info/entry_points.txt
+writing requirements to build/drawingbot/drawingbot.egg-info/requires.txt
+writing top-level names to build/drawingbot/drawingbot.egg-info/top_level.txt
+writing manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+reading manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+writing manifest file 'build/drawingbot/drawingbot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build
+creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib
+creating /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+copying drawingbot/test.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+copying drawingbot/__init__.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+copying drawingbot/coords.py -> /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot
+running install
+running install_lib
+creating /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/test.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/__init__.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+copying /home/student8/class_ws/src/drawingbot/build/drawingbot/build/lib/drawingbot/coords.py -> /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot
+byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/test.py to test.cpython-310.pyc
+byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot/coords.py to coords.cpython-310.pyc
+running install_data
+creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index
+creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index
+creating /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index/packages
+copying resource/drawingbot -> /home/student8/class_ws/src/drawingbot/install/drawingbot/share/ament_index/resource_index/packages
+copying package.xml -> /home/student8/class_ws/src/drawingbot/install/drawingbot/share/drawingbot
+running install_egg_info
+Copying build/drawingbot/drawingbot.egg-info to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/python3.10/site-packages/drawingbot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing coords script to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/drawingbot
+Installing test script to /home/student8/class_ws/src/drawingbot/install/drawingbot/lib/drawingbot
+writing list of installed files to '/home/student8/class_ws/src/drawingbot/build/drawingbot/install.log'

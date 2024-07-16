@@ -1,0 +1,4 @@
+[console_scripts]
+coords = drawingbot.coords:main
+test = drawingbot.test:main
+
